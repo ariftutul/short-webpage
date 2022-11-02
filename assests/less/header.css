@@ -1,0 +1,30 @@
+header {
+  background-color: #117579;
+  padding: 150px;
+}
+header h2 {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-transform: capitalize;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+header p {
+  padding: 10px 0px;
+  text-align: center;
+  color: #e5f8f5;
+  text-transform: capitalize;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+header .box {
+  padding: 10px 0px;
+  text-align: center;
+}
+header .box a {
+  background-color: cadetblue;
+  text-transform: capitalize;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 20px;
+  color: aliceblue;
+  box-sizing: border-box;
+}

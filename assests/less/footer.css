@@ -1,0 +1,24 @@
+footer {
+  background-color: #117579;
+}
+footer ul {
+  display: flex;
+  justify-content: flex-end;
+}
+footer ul .div {
+  padding-right: 600px;
+}
+footer ul .div h4 {
+  color: aliceblue;
+  text-transform: capitalize;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+footer ul li {
+  padding: 10px;
+}
+footer ul li a {
+  padding-right: 6px;
+  color: aliceblue;
+  text-transform: capitalize;
+  font-family: 'Josefin Sans', sans-serif;
+}
